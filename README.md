@@ -88,6 +88,4 @@ to allow users to choose a team for the puppy to join.
 
 ## Submission
 
-For this career simulation, you will have to **make a pull request** from your fork
-into the main branch of the starter repo. The title of your pull request should
-include your full name. Submit the link to your _pull request_.
+For this career simulation, you will submit a link to your github repo
