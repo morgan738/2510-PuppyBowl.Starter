@@ -78,8 +78,7 @@ const removePlayer = async (playerId) => {
  * - image (with alt text of the player's name)
  *
  * Additionally, for each player we should be able to:
- * - See details of a single player. When clicked, should be redirected
- *    to a page with the appropriate hashroute. The page should show
+ * - See details of a single player. The page should show
  *    specific details about the player clicked 
  * - Remove from roster. when clicked, should remove the player
  *    from the database and our current view without having to refresh
